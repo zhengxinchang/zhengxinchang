@@ -7,29 +7,29 @@
 
 ```rust
 struct ⭐Xinchang⭐ { 
-    name: String,
-    sex: String,
-    keywords:Vec<String>,
-    current_location: String,
-    reserch: Vec<String>,
-    program_languages: Vec<String>,
-    hobbies: Vec<String>,
+    name🍕: String,
+    sex👦: String,
+    keywords🍎:Vec<String>,
+    current_location⛺: String,
+    reserch💼: Vec<String>,
+    program_languages🌴: Vec<String>,
+    hobbies🎅: Vec<String>,
 }
 
 impl ⭐Xinchang⭐ {
     fn init() -> Self {
         ⭐Xinchang⭐ {
-            name: String::from("Xinchang Zheng"),
-            sex: String::from("Male"),
-            keywords:vec![
+            name🍕: String::from("Xinchang Zheng"),
+            sex👦: String::from("Male"),
+            keywords🍎:vec![
               String::from("Researcher"),
               String::from("Bioinformatician"),
               String::from("Full-stack web developer"),
               String::from("Video games fan"),
               String::from("INTJ")
             ],
-            current_location: String::from("Houston, Texas"),
-            reserch: vec![
+            current_location⛺: String::from("Houston, Texas"),
+            reserch💼: vec![
                 String::from("Bioinformatics"),
                 String::from("Cancer genomics"),
                 String::from("Software engineering"),
@@ -37,7 +37,7 @@ impl ⭐Xinchang⭐ {
                 String::from("Data visualization"),
                 String::from("Long read sequencing"),
             ],
-            program_languages: vec![
+            program_languages🌴: vec![
                 String::from("Python"),
                 String::from("Rust"),
                 String::from("R"),
@@ -46,7 +46,7 @@ impl ⭐Xinchang⭐ {
                 String::from("C/C++"),
                 String::from("Linux/Shell(HPC)")
             ],
-            hobbies: vec![
+            hobbies🎅: vec![
                 String::from("Vedio games(Nintendo Switch Fan)"),
                 String::from("Pokemon!"),
                 String::from("Digital Map Exploration Enthusiast"),
@@ -54,7 +54,7 @@ impl ⭐Xinchang⭐ {
               ],
         }
     }
-    fn say_hi() -> String {
+    fn say_hi(🌕) -> String {
         "Hey there!".to_string()
     }
 }
