@@ -6,7 +6,7 @@
 
 
 ```rust
-struct Xinchang {
+struct ⭐Xinchang⭐ { 
     name: String,
     sex: String,
     keywords:Vec<String>,
@@ -16,7 +16,7 @@ struct Xinchang {
     hobbies: Vec<String>,
 }
 
-impl Xinchang {
+impl ⭐Xinchang⭐ {
     fn init() -> Self {
         Xinchang {
             name: String::from("Xinchang Zheng"),
