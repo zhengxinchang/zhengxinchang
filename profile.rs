@@ -30,7 +30,9 @@ impl Xinchang {
                 String::from("C/C++"),
                 String::from("Shell"),
             ],
-            hobbies: vec![String::from("Vedio games"), String::from("Pokemon!")],
+            hobbies: vec![
+                String::from("Vedio games"), 
+                String::from("Pokemon!")],
         }
     }
     fn say_hi() -> String {

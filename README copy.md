@@ -20,9 +20,7 @@ struct Xinchang {
     hobbies:Vec<String>,
 }
 
-
 impl Xinchang {
-
     fn init() -> Self {
         Xinchang {
             name:String::from("Xinchang Zheng"),
@@ -43,16 +41,17 @@ impl Xinchang {
                 String::from("JavaScript/HTML/CSS"),
                 String::from("Rust"),
                 String::from("C/C++"),
-                String::from("Shell"),
+                String::from("Shell")
             ],
             hobbies:vec![
-                String::from("Vedio games"),
+                String::from("Vedio games(Nintendo Switch Fan)"),
                 String::from("Pokemon!"),
+                String::from("Digital Map Exploration Enthusiast"),
+                String::from("Chromatic Harmonica (Very Amateur)")
             ]
         }
     }
     fn say_hi()->String{
-
         "Hey there!".to_string()
     }
 }
