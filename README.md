@@ -41,7 +41,7 @@ impl ⭐Xinchang⭐ {
                 String::from("Python"),
                 String::from("Rust"),
                 String::from("R"),
-                String::from("JavaScript/HTML/CSS"),
+                String::from("JavaScript/HTML/CSS(Vue)"),
                 String::from("Rust"),
                 String::from("C/C++"),
                 String::from("Linux/Shell(HPC)")
