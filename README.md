@@ -14,8 +14,6 @@ struct Xinchang {
     program_languages:Vec<String>,
     hobbies:Vec<String>,
 }
-
-
 impl Xinchang {
 
     fn init() -> Self {
@@ -47,7 +45,6 @@ impl Xinchang {
         }
     }
     fn say_hi()->String{
-
         "Hey there!".to_string()
     }
 }
