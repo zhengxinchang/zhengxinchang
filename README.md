@@ -18,7 +18,7 @@ struct ⭐Xinchang⭐ {
 
 impl ⭐Xinchang⭐ {
     fn init() -> Self {
-        Xinchang {
+        ⭐Xinchang⭐ {
             name: String::from("Xinchang Zheng"),
             sex: String::from("Male"),
             keywords:vec![
