@@ -9,6 +9,7 @@
 struct Xinchang {
     name: String,
     sex: String,
+    keywords:Vec<String>,
     current_location: String,
     reserch: Vec<String>,
     program_languages: Vec<String>,
@@ -20,9 +21,16 @@ impl Xinchang {
         Xinchang {
             name: String::from("Xinchang Zheng"),
             sex: String::from("Male"),
+            keywords:vec![
+              String::from("Researcher"),
+              String::from("Bioinformatician"),
+              String::from("Full-stack web developer"),
+              String::from("Video games fan"),
+              String::from("INTJ")
+            ],
             current_location: String::from("Houston, Texas"),
             reserch: vec![
-                String::from("Bioinformatics & Computational Biology"),
+                String::from("Bioinformatics"),
                 String::from("Cancer genomics"),
                 String::from("Software engineering"),
                 String::from("Biomedical database/webserver"),
@@ -36,9 +44,14 @@ impl Xinchang {
                 String::from("JavaScript/HTML/CSS"),
                 String::from("Rust"),
                 String::from("C/C++"),
-                String::from("Shell"),
+                String::from("Linux/Shell(HPC)")
             ],
-            hobbies: vec![String::from("Vedio games"), String::from("Pokemon!")],
+            hobbies: vec![
+                String::from("Vedio games(Nintendo Switch Fan)"),
+                String::from("Pokemon!"),
+                String::from("Digital Map Exploration Enthusiast"),
+                String::from("Chromatic Harmonica (Very Amateur)")
+              ],
         }
     }
     fn say_hi() -> String {
