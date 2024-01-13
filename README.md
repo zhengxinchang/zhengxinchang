@@ -21,6 +21,7 @@ impl ⭐Xinchang⭐ {
         ⭐Xinchang⭐ {
             🍕name: String::from("Xinchang Zheng"),
             👦sex: String::from("Male"),
+            ⛺current_location: String::from("Houston, Texas"),
             🍎keywords:vec![
               String::from("Researcher"),
               String::from("Bioinformatician"),
@@ -28,7 +29,6 @@ impl ⭐Xinchang⭐ {
               String::from("Video games fan"),
               String::from("INTJ")
             ],
-            ⛺current_location: String::from("Houston, Texas"),
             💼reserch: vec![
                 String::from("Bioinformatics"),
                 String::from("Cancer genomics"),
