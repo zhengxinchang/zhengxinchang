@@ -23,11 +23,11 @@ impl ⭐Xinchang⭐ {
             👦sex: String::from("Male"),
             ⛺current_location: String::from("Houston, Texas"),
             🍎keywords:vec![
-              String::from("Researcher"),
-              String::from("Bioinformatician"),
-              String::from("Full-stack web developer"),
-              String::from("Video games fan"),
-              String::from("INTJ")
+                String::from("Researcher"),
+                String::from("Bioinformatician"),
+                String::from("Full-stack web developer"),
+                String::from("Video games fan"),
+                String::from("INTJ")
             ],
             💼reserch: vec![
                 String::from("Bioinformatics"),
