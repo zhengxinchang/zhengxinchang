@@ -51,7 +51,7 @@ impl ⭐Xinchang⭐ {
                 String::from("Pokemon!"),
                 String::from("Digital Map Exploration Enthusiast"),
                 String::from("Chromatic Harmonica (Very Amateur)")
-              ],
+            ],
         }
     }
     fn say_hi(🌕) -> String {
