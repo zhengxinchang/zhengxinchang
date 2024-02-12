@@ -68,7 +68,7 @@ impl ⭐Xinchang⭐ {
 4.  [GenBase](https://ngdc.cncb.ac.cn/genbase/?lang=en)🍻 "A genetic sequence database that accepts user submissions and integrates data from INSDC"
 5.  [BIT](https://ngdc.cncb.ac.cn/bit/)🍻 "Bioinformatics tookit in National Genomics Data Center"
 
-**Tools**
+**Tools:**
 
 1.  [ttable-rs](https://github.com/zhengxinchang/ttable-rs) "A standalone table formatter for viewing tabular data in the console"
 2.  [hapnet.js](https://github.com/zhengxinchang/hapnet.js)🎄 "A JavaScript library to draw haplotype network in a fast way"
