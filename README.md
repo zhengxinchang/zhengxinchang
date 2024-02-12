@@ -60,7 +60,7 @@ impl ⭐Xinchang⭐ {
 }
 ```
 
-**Databases/Webservers that I have developed/contributed:**
+**Databases/Webservers:**
 
 1.  [MACdb](https://ngdc.cncb.ac.cn/macdb/) "A curated knowledgebase for Metabolic Associations across human Cancers"
 2.  [CCLHunter](https://ngdc.cncb.ac.cn/cclhunter/home) "An efficient toolkit for cancer cell line authentication"
