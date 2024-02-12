@@ -56,6 +56,14 @@ impl ⭐Xinchang⭐ {
     }
     fn say_hi(🌕) -> String {
         "Hey there!".to_string()
+    },
+    fn get_websites_I_have_developed(🌕) ->Map<String,String>{
+        HashMap::from([
+                ("[MACdb](https://ngdc.cncb.ac.cn/macdb/)","A curated knowledgebase for Metabolic Associations across human Cancers"),
+                ("[CCLHunter](https://ngdc.cncb.ac.cn/cclhunter/home)","An efficient toolkit for cancer cell line authentication"),
+                ("[CCAS](https://ngdc.cncb.ac.cn/ccas/#/)", "One-stop and comprehensive annotation system for individual cancer genome at multi-omics level"),
+                ("[GenBase](https://ngdc.cncb.ac.cn/genbase/?lang=en)", "A genetic sequence database that accepts user submissions and integrates data from INSDC"),
+        ])
     }
 }
 ```
