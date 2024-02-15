@@ -71,7 +71,7 @@ impl ⭐Xinchang⭐ {
 **Tools:**
 
 1.  [ttable-rs](https://github.com/zhengxinchang/ttable-rs) "A standalone table formatter for viewing tabular data in the console"
-2.  [hapnet.js](https://github.com/zhengxinchang/hapnet.js)🌵 "A JavaScript library to draw haplotype network in a fast way" [demo](https://ngdc.cncb.ac.cn/ccas/hapnetjs/dist/index.html)
+2.  [hapnet.js](https://github.com/zhengxinchang/hapnet.js)🌵 "A JavaScript library to draw haplotype network in a fast way" [demo](https://zhengxinchang.github.io/hapnetjs/dist/index.html)
 3.  [excord-lr](https://github.com/zhengxinchang/excord-lr)🌵 "Extract structural variation signals from long-reads BAM files"
 4.  [STIX](https://github.com/zhengxinchang/stix)🍄🍏 "Structural Variation serach engine for large datasets"
 
