@@ -76,4 +76,4 @@ impl ⭐Xinchang⭐ {
 4.  [STIX](https://github.com/zhengxinchang/stix)🍄🌵 "Structural Variation serach engine for large datasets"
 
 
-🍄: contribute, 🌵: on-going
+🍄: collaborated project, 🌵: on-going
