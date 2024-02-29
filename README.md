@@ -39,7 +39,6 @@ impl ⭐Xinchang⭐ {
             ],
             🌴program_languages: vec![
                 String::from("Python"),
-                String::from("Rust"),
                 String::from("R"),
                 String::from("JavaScript/HTML/CSS(Vue)"),
                 String::from("Rust"),
