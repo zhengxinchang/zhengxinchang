@@ -11,7 +11,7 @@ struct ⭐Xinchang⭐ {
     👦sex: String,
     🍎keywords:Vec<String>,
     ⛺current_location: String,
-    💼reserch: Vec<String>,
+    💼research: Vec<String>,
     🌴program_languages: Vec<String>,
     🎅hobbies: Vec<String>,
 }
@@ -29,7 +29,7 @@ impl ⭐Xinchang⭐ {
                 String::from("Video games fan"),
                 String::from("INTJ")
             ],
-            💼reserch: vec![
+            💼research: vec![
                 String::from("Bioinformatics"),
                 String::from("Cancer genomics"),
                 String::from("Software engineering"),
