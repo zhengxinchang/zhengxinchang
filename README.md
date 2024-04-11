@@ -46,7 +46,7 @@ impl ⭐Xinchang⭐ {
                 String::from("Linux/Shell(HPC)")
             ],
             🎅hobbies: vec![
-                String::from("Vedio games(Nintendo Switch Fan)"),
+                String::from("Vedio games(Nintendo Switch/Steam Fan)"),
                 String::from("Pokemon!"),
                 String::from("Digital Map Exploration Enthusiast"),
                 String::from("Chromatic Harmonica (Very Amateur)")
