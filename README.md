@@ -66,7 +66,8 @@ impl ⭐Xinchang⭐ {
 3.  [CCAS](https://ngdc.cncb.ac.cn/ccas/#/) "One-stop and comprehensive annotation system for individual cancer genome at multi-omics level"
 4.  [GenBase](https://ngdc.cncb.ac.cn/genbase/?lang=en)🍄 "A genetic sequence database that accepts user submissions and integrates data from INSDC"
 5.  [BIT](https://ngdc.cncb.ac.cn/bit/)🍄 "Bioinformatics tookit in National Genomics Data Center"
-6.  [Protdb](https://zhengxinchang.github.io/protdb/)🍄🌵 "A curated protein biomarker database for diseases"   
+6.  [Protdb](https://zhengxinchang.github.io/protdb/)🍄🌵 "A curated protein biomarker database for diseases"
+7.  [STIX webserver](https://zhengxinchang.github.io/stix/)🍄🌵 "Web Server for STIX"
 
 **Tools:**
 
