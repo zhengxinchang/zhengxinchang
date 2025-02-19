@@ -75,6 +75,6 @@ impl ⭐Xinchang⭐ {
 2.  [hapnet.js](https://github.com/zhengxinchang/hapnet.js)🌵 "A JavaScript library to draw haplotype network in a fast way" [demo](https://zhengxinchang.github.io/hapnetjs/dist/index.html)
 3.  [excord-lr](https://github.com/zhengxinchang/excord-lr)🌵 "Extract structural variation signals from long-reads BAM files"
 4.  [STIX](https://github.com/zhengxinchang/stix)🍄🌵 "Structural Variation serach engine for large datasets"
-
+5.  [swapfinder](https://github.com/zhengxinchang/swapfinder) 🌵 "Sample swap identification"
 
 🍄: collaborated project, 🌵: on-going
