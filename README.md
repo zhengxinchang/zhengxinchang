@@ -78,3 +78,5 @@ impl ⭐Xinchang⭐ {
 5.  [swapfinder](https://github.com/zhengxinchang/swapfinder) 🌵 "Sample swap identification"
 
 🍄: collaborated project, 🌵: on-going
+
+**My home page can be found at [here](https://zhengxinchang.github.io/book/index.html)**
