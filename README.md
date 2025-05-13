@@ -67,15 +67,16 @@ impl ⭐Xinchang⭐ {
 4.  [GenBase](https://ngdc.cncb.ac.cn/genbase/?lang=en)🍄 "A genetic sequence database that accepts user submissions and integrates data from INSDC"
 5.  [BIT](https://ngdc.cncb.ac.cn/bit/)🍄 "Bioinformatics tookit in National Genomics Data Center"
 6.  [Protdb](https://zhengxinchang.github.io/protdb/)🍄🌵 "A curated protein biomarker database for diseases"
-7.  [STIX webserver](https://zhengxinchang.github.io/stix/)🍄🌵 "Web Server for STIX"
+7.  [STIX webserver](https://zhengxinchang.github.io/stix/)🍄 "Web Server for STIX"
 
 **Tools:**
 
 1.  [ttable-rs](https://github.com/zhengxinchang/ttable-rs) "A standalone table formatter for viewing tabular data in the console"
 2.  [hapnet.js](https://github.com/zhengxinchang/hapnet.js)🌵 "A JavaScript library to draw haplotype network in a fast way" [demo](https://zhengxinchang.github.io/hapnetjs/dist/index.html)
 3.  [excord-lr](https://github.com/zhengxinchang/excord-lr)🌵 "Extract structural variation signals from long-reads BAM files"
-4.  [STIX](https://github.com/zhengxinchang/stix)🍄🌵 "Structural Variation serach engine for large datasets"
+4.  [STIX](https://github.com/zhengxinchang/stix)🍄 "Structural Variation serach engine for large datasets"
 5.  [swapfinder](https://github.com/zhengxinchang/swapfinder) 🌵 "Sample swap identification"
+6.  [vcfgrpaf](https://github.com/zhengxinchang/vcfgrpaf). "Calculate allele frequency by groups in VCF file."
 
 🍄: collaborated project, 🌵: on-going
 
