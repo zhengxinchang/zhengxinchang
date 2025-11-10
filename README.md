@@ -77,7 +77,7 @@ impl ⭐Xinchang⭐ {
 4.  [STIX](https://github.com/zhengxinchang/stix)🍄 "Structural Variation serach engine for large datasets"
 5.  [swapfinder](https://github.com/zhengxinchang/swapfinder) 🌵 "Sample swap identification"
 6.  [vcfgrpaf](https://github.com/zhengxinchang/vcfgrpaf) "Calculate allele frequency by groups in VCF file."
-7.  [stixlr2](https://github.com/zhengxinchang/stixlr2)🌵 "Pure Rust re-implimentation of STIX"
+7.  [popcorn](https://github.com/zhengxinchang/stixlr2)🌵 "population scale SV genotyper at read level"
 
 🍄: collaborated project, 🌵: on-going
 
