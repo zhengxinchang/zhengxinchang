@@ -78,6 +78,7 @@ impl ⭐Xinchang⭐ {
 5.  [swapfinder](https://github.com/zhengxinchang/swapfinder) 🌵 "Sample swap identification"
 6.  [vcfgrpaf](https://github.com/zhengxinchang/vcfgrpaf) "Calculate allele frequency by groups in VCF file."
 7.  [popcorn](https://github.com/zhengxinchang/stixlr2)🌵 "population scale SV genotyper at read level"
+8.  [isopedia](https://github.com/zhengxinchang/isopedia)🌵 "Analysis transcripts in the context of thousands of long-read transcriptome"
 
 🍄: collaborated project, 🌵: on-going
 
