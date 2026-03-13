@@ -22,7 +22,7 @@ impl ⭐Xinchang⭐ {
             🍕name: String::from("Xinchang Zheng"),
             👦sex: String::from("Male"),
             ⛺current_location: String::from("Houston, Texas"),
-            🍎keywords:vec![
+            🍎keywords: vec![
                 String::from("Researcher"),
                 String::from("Bioinformatician"),
                 String::from("Full-stack web developer"),
