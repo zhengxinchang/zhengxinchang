@@ -76,9 +76,10 @@ impl ⭐Xinchang⭐ {
 3.  [excord-lr](https://github.com/zhengxinchang/excord-lr)🌵 "Extract structural variation signals from long-reads BAM files"
 4.  [STIX](https://github.com/zhengxinchang/stix)🍄 "Structural Variation serach engine for large datasets"
 5.  [swapfinder](https://github.com/zhengxinchang/swapfinder) 🌵 "Sample swap identification"
-6.  [vcfgrpaf](https://github.com/zhengxinchang/vcfgrpaf) "Calculate allele frequency by groups in VCF file."
+6.  [vcfgrpaf](https://github.com/zhengxinchang/vcfgrpaf) "Calculate allele frequency by groups in VCF file"
 7.  [popcorn](https://github.com/zhengxinchang/stixlr2)🌵 "population scale SV genotyper at read level"
 8.  [isopedia](https://github.com/zhengxinchang/isopedia)🌵 "Analyze your transcripts in the context of thousands of long-read transcriptome"
+9.  [isomatch](https://github.com/zhengxinchang/isomatch)🌵 "Sequence-aware, long-read RNAseq native merge and classify transcripts at population-scale"
 
 🍄: collaborated project, 🌵: on-going
 
