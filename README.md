@@ -8,7 +8,7 @@
 ```rust
 struct ⭐Xinchang⭐ { 
     🍕name: String,
-    👦sex: String,
+    👦gender: String,
     🍎keywords:Vec<String>,
     ⛺current_location: String,
     💼research: Vec<String>,
