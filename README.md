@@ -83,4 +83,4 @@ impl ⭐Xinchang⭐ {
 
 🍄: collaborated project, 🌵: on-going
 
-**My home page can be found at [here](https://zhengxinchang.github.io/book/index.html)**
+**My home page can be found at [here](https://zhengxinchang.github.io/)**
